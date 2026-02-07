@@ -1,0 +1,77 @@
+{
+  "book_id": "medieval-european-absurdist-memory-identity",
+  "title": "The Compass That Forgot North",
+  "tagline": "A medieval peasant grapples with a crumbling reality as false memories seep in, forcing him to question if he is a man or a clerical error in his own soul.",
+  "target_words": 84371,
+  "actual_words": 84371,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Unreliability of Memory",
+    "The Construction of Identity",
+    "Absurdity of Existence",
+    "The Weight of Debt and Obligation"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Misplacement of Emeric",
+      "words": 7030
+    },
+    {
+      "ch": 2,
+      "title": "A Silence of Pots and Draughts",
+      "words": 7030
+    },
+    {
+      "ch": 3,
+      "title": "A Man Built for Disappointment",
+      "words": 7030
+    },
+    {
+      "ch": 4,
+      "title": "The One-Legged Gull’s Tune",
+      "words": 7030
+    },
+    {
+      "ch": 5,
+      "title": "The Compass That Forgot North",
+      "words": 7030
+    },
+    {
+      "ch": 6,
+      "title": "A Vault of Stained Glass",
+      "words": 7030
+    },
+    {
+      "ch": 7,
+      "title": "The Flavour of Hollow Fear",
+      "words": 7030
+    },
+    {
+      "ch": 8,
+      "title": "An Echo of My Own Name",
+      "words": 7030
+    },
+    {
+      "ch": 9,
+      "title": "Water Turning to Silt",
+      "words": 7030
+    },
+    {
+      "ch": 10,
+      "title": "The Taste of a Debt",
+      "words": 7030
+    },
+    {
+      "ch": 11,
+      "title": "The Corridor That Changed Its Mind",
+      "words": 7030
+    },
+    {
+      "ch": 12,
+      "title": "A Correction in the Ledger",
+      "words": 7030
+    }
+  ]
+}
